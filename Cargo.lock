@@ -11,5 +11,9 @@ name = "binary_search"
 version = "0.1.0"
 
 [[package]]
+name = "crystal_balls_challenge"
+version = "0.1.0"
+
+[[package]]
 name = "linear_search"
 version = "0.1.0"

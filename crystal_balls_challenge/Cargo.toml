@@ -1,6 +1,5 @@
-workspace = { members = [ "binary_search", "crystal_balls_challenge","linear_search"] }
 [package]
-name = "algorithms"
+name = "crystal_balls_challenge"
 version = "0.1.0"
 edition = "2021"
 
